@@ -1,3 +1,5 @@
+Hello my friend!!!
+
 First commit
 edit in branch - develop
 edit in branch - master (attemp 2)
